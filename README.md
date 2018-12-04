@@ -45,9 +45,6 @@ Most of these plugins also have their own READMEs in their folders; you can usua
 - Provides an interface to DuckDuckGo's web search.
    - **Requires:** [Beautiful Soup 4](http://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
-##### FML
-- Displays random entries from fmylife.com.
-
 ##### Isup
 - Provides a simple command to check whether a website is up or down (using [isup.me](http://isup.me)).
 
